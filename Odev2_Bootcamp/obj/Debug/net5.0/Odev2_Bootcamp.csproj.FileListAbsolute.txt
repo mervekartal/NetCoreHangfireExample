@@ -1,0 +1,291 @@
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\appsettings.json
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.exe
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.deps.json
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.runtimeconfig.json
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.runtimeconfig.dev.json
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\ref\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Data.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Data.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.AssemblyInfo.cs
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\staticwebassets\Odev2_Bootcamp.StaticWebAssets.Manifest.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\staticwebassets\Odev2_Bootcamp.StaticWebAssets.xml
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\scopedcss\bundle\Odev2_Bootcamp.styles.css
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.RazorTargetAssemblyInfo.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\ref\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.genruntimeconfig.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.csproj.CopyComplete
+C:\Users\merve\Desktop\Merve\PtkDv\Hafta 2\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\appsettings.json
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.exe
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.deps.json
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.runtimeconfig.json
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.runtimeconfig.dev.json
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\ref\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.pdb
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Data.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Data.pdb
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.AssemblyInfo.cs
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\staticwebassets\Odev2_Bootcamp.StaticWebAssets.Manifest.cache
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\staticwebassets\Odev2_Bootcamp.StaticWebAssets.xml
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\scopedcss\bundle\Odev2_Bootcamp.styles.css
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.RazorTargetAssemblyInfo.cache
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.csproj.CopyComplete
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\ref\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.pdb
+C:\Users\merve\Desktop\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.genruntimeconfig.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\appsettings.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.exe
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.deps.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.runtimeconfig.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.runtimeconfig.dev.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\ref\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Data.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Entity.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Data.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Entity.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.AssemblyInfo.cs
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\staticwebassets\Odev2_Bootcamp.StaticWebAssets.Manifest.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\staticwebassets\Odev2_Bootcamp.StaticWebAssets.xml
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\scopedcss\bundle\Odev2_Bootcamp.styles.css
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.RazorTargetAssemblyInfo.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\ref\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.genruntimeconfig.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\Core.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Odev2_Bootcamp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\appsettings.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.exe
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.deps.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.runtimeconfig.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.runtimeconfig.dev.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\ref\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Odev2_Bootcamp.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Data.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Entity.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Core.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Data.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\bin\Debug\net5.0\Entity.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.AssemblyInfo.cs
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\staticwebassets\Odev2_Bootcamp.StaticWebAssets.Manifest.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\staticwebassets\Odev2_Bootcamp.StaticWebAssets.xml
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\scopedcss\bundle\Odev2_Bootcamp.styles.css
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.RazorTargetAssemblyInfo.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\ref\Odev2_Bootcamp.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.genruntimeconfig.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Odev2_Bootcamp\obj\Debug\net5.0\Odev2_Bootcamp.csproj.CopyComplete

@@ -1,0 +1,34 @@
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\bin\Debug\net5.0\Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\bin\Debug\net5.0\Data.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\bin\Debug\net5.0\Entity.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\bin\Debug\net5.0\Data.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\bin\Debug\net5.0\Entity.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\obj\Debug\net5.0\Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp\Core\obj\Debug\net5.0\Core.csproj.CopyComplete
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\bin\Debug\net5.0\Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\bin\Debug\net5.0\Data.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\bin\Debug\net5.0\Entity.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\bin\Debug\net5.0\Data.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\bin\Debug\net5.0\Entity.pdb
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\obj\Debug\net5.0\Core.csproj.CopyComplete
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\obj\Debug\net5.0\Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\merve\Desktop\Merve\PtkDv\Odev2_Bootcamp - 3.hafta\Core\obj\Debug\net5.0\Core.pdb
